@@ -32,4 +32,3 @@ def getMinMax(LOW, high, arr):
 arr = [1000, 11, 445, 48, 330, 3000]
 arr_max, arr_min = getMinMax(LOW, high, arr)
 print('Minimum element is ', arr_min)
-print('Maximum element is ', arr_max)
